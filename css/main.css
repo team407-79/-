@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2{
+    color: yellow;
+    text-align: center;
+    font-weight: bold;
+}
+
+h3{
+    color: skyblue;
+    text-align: right;
+    font-weight: bold;
+}
+
+h4{
+    color: gold;
+    text-align: left;
+    font-weight: bold;
+}
+
+p{
+    font-weight: bold;
+}
